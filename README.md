@@ -1,16 +1,15 @@
-# fuel_calculator
+# Fuel Calculator
 
-Calculator app for calculating fuel consumption.
+A simple app for calculating fuel combustion
 
-## Getting Started
+![iu-image](https://github.com/Wojw99/fuel-calculator/blob/main/ui-present-fuel.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Functionalities
+- calculating fuel price
+- calculating total fuel combustion
+- opening URLs with fuel prices and car combustion
+- sharing results
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Summary 
+It is a project, created when I was learning Flutter. It is a simple app but some code parts could be helpful in future applications development. The app itself also makes my life easier sometimes.
